@@ -1,0 +1,5 @@
+1	ABBA	ABBA Gold	ABBA_Gold_cover.png
+2	Guns N' Roses	Use Your Illusion I	GnR-UseYourIllusion1.jpg
+3	Modern Talking	Back for Good	Modern_Talking_-_Back_for_Good.jpg
+4	Prince	1999	Prince_-1999.jpg
+5	Bon Jovi	Slippery When Wet	Bon_jovi_slippery_when_wet.jpg
